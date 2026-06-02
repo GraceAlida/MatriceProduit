@@ -1,0 +1,17 @@
+# NetBeans
+nbproject/private/
+build/
+dist/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+*.orig
